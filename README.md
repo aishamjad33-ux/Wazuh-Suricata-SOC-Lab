@@ -11,7 +11,7 @@
 **Prepared by:** Ayesha | Information Security Analyst
 **Organization:** Vital Medicure Labs
 
-![Table of Contents](images/1.jpeg)
+![Table of Contents](1.jpeg)
 
 ## Lab Overview
 
