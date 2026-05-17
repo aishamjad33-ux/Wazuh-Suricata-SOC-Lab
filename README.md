@@ -11,6 +11,8 @@
 **Prepared by:** Ayesha | Information Security Analyst
 **Organization:** Vital Medicure Labs
 
+![Table of Contents](images/1.jpeg)
+
 ## Lab Overview
 
 This project demonstrates a complete **Security Operations Center (SOC) detection pipeline** built from open-source tools. Suricata 8.0 acts as the network IDS sensor on Rocky Linux, forwarding all alerts via `eve.json` to Wazuh SIEM. Two real attack scenarios were executed — Nmap stealth port scan and XSS web attack — both detected in real time.
